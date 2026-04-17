@@ -3,7 +3,7 @@
 A modern, responsive, and fully offline-capable To-Do List web application built using **HTML, CSS, and JavaScript**, powered by **IndexedDB** for persistent local storage.
 
 🚀 Live Demo
-👉 (Add your GitHub Pages link here after deployment)
+https://kelvin7331.github.io/kelvinet-todo-app/
 
 ---
 
